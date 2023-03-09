@@ -1,0 +1,21 @@
+@media (max-width: 480px) {
+    body {
+        text-align: center;
+    }
+
+    h3 {
+        margin-top: 50px;
+    }
+
+    p {
+        text-align: start;
+    }
+
+    ol li {
+        text-align: justify;
+    }
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
